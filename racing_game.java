@@ -7,6 +7,10 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.event.*;
 
+
+//https://stackoverflow.com/questions/16475482/how-can-i-load-a-bitmap-image-and-manipulate-individual-pixels
+
+
 public class Root extends JFrame
 {   
 	public static void main(String[] args)
